@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "dotenv": "^16.4.5",
     "hardhat": "^2.22.2",
     "hardhat-ethers": "^1.0.1",
     "nodejs": "^0.0.0"
