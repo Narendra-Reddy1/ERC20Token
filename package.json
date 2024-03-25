@@ -1,5 +1,10 @@
 {
   "dependencies": {
+    "hardhat": "^2.22.2",
+    "hardhat-ethers": "^1.0.1",
     "nodejs": "^0.0.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
   }
 }
